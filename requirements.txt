@@ -1,0 +1,11 @@
+Cython==0.29.32
+doit==0.30.0
+gamtools==1.1.1
+jupyterlab==3.5.0
+jupyterlab-git==0.39.3
+matplotlib==3.6.1
+numpy==1.23.4
+pandas==1.5.1
+scipy==1.9.3
+wrapit==0.3.0
+-e git+https://github.com/mirnylab/mirnylib-legacy.git#egg=mirnylib
